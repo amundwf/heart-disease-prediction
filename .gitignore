@@ -1,0 +1,9 @@
+data/
+references/
+models/
+.ipynb_checkpoints/
+__pycache__/
+captain's_log.txt
+results/saved_models_CNN_N500/*.pth
+# Keep best performing model
+!results/saved_models_CNN_N500/model_epoch_95.pth 
